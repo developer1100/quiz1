@@ -134,7 +134,6 @@ let data = [
   ],
   // Quiz 32 Para Symapathic?
   ["VD",
-  "Innibit gland secretion",
   "Relaxatian",
   "stimulate"],
   // Quiz 33 Plexues?
