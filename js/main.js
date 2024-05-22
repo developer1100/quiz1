@@ -83,7 +83,7 @@ let data = [
   // Quiz 17 Transtinal zone?
   ["Cansist of respiratory bronchiols",
   "It has afew amount of alveoli",
-  "There is littergas exchange in this Area"],
+  "There is litter gas exchange in this Area"],
   // Quiz 18 respiratory zone?
   ["It consist of alveolar Ducttalveoli",
   "It is the main zone for gas exchange"],
