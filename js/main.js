@@ -109,7 +109,7 @@ let data = [
   ["Hypoxiemia"],
   // Quiz 25 Classification of hypoxia?
   ["Hypoxic hypoxic",
-  "Anemic-hypoxia",
+  "Anemic hypoxia",
   "Stagnant hypaxia",
   "His to toxic hypoxia"],
   // Quiz 26 move ments of Intestines?
