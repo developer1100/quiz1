@@ -66,7 +66,7 @@ let data = [
   "Provide More Time for gas exchange"],
   // Quiz 13 alveoli?
   ["300 Million",
-  "Sit of gas exchange",
+  "Site of gas exchange",
   "It's lined by epithelial eells caller Pneumocyte",
   "pneumocyte secroets surface"], // --> ملاحظة مهمه],
   // Quiz 14 Stages of Respiratian?
