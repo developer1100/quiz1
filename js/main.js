@@ -144,7 +144,7 @@ let data = [
   ["Mustecation",
   "Sulevary Glands"],
   // Quiz 35 Mustecation Steps?
-  ["Mauth",
+  ["Mouth",
   "Pharyngeal",
   "Os Pharyngeal"],
   // Quiz 36 sulevary Glands.(Paired)?
