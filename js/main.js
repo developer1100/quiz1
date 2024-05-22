@@ -149,7 +149,7 @@ let data = [
   "Os Pharyngeal"],
   // Quiz 36 sulevary Glands.(Paired)?
   ["Parotid Gland",
-  "Sub mandibule",
+  "Sub mandible",
   "Sub mucosal"],
   // Quiz 37 function of saliva?
   ["help Digstion",
