@@ -79,7 +79,7 @@ let data = [
   "Respiratory zone"],
   // Quiz 16 Canduction Zone?
   ["From Nose to terminal hronchi",
-  "Has No alvenli and No Gas Exchange"],
+  "Has No Alveoli and No Gas Exchange"],
   // Quiz 17 Transtinal zone?
   ["Cansist of respiratory bronchiols",
   "It has afew amount of alveoli",
@@ -109,7 +109,7 @@ let data = [
   ["Hypoxiemia"],
   // Quiz 25 Classification of hypoxia?
   ["Hypoxic hypoxic",
-  "Anemic hypoxia",
+  "Anemic-hypoxia",
   "Stagnant hypaxia",
   "His to toxic hypoxia"],
   // Quiz 26 move ments of Intestines?
