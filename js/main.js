@@ -70,9 +70,9 @@ let data = [
   "It's lined by epithelial eells caller Pneumocyte",
   "pneumocyte secroets surface"], // --> ملاحظة مهمه],
   // Quiz 14 Stages of Respiratian?
-  ["External vespiration",
-  "Pulmonary ventilation",
-  "Insperation,experatien"],
+  ["External respiration",
+  "Transport of gas to tissue",
+  "internal respiration"],
   // Quiz 15 types of bronchiols a the Zone?
   ["Canduction Zone",
   "Transtinal zone",
